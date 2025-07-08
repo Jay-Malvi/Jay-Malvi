@@ -4,20 +4,20 @@
 
 ## 👨‍💼 About Me
 
-I’m Jay, currently working as a Quality & Data Manager with over 5 years of experience in operations, client handling, and quality assurance in the B2B service sector.  
-I’ve completed a Data Analytics certification and a 7-month internship as a Data Analyst at Grras IT Training & Solutions Pvt. Ltd.  
-Additionally, I’ve completed a 6-month internship as a Data Analyst with Cognifyz Technologies, where I worked on practical tasks using SQL, Power BI, and Python.  
-I enjoy working with data to solve business problems, optimize processes, and support decision-making with clear insights and visualizations.  
-I’m actively building real-world projects and transitioning into a full-time Data Analyst role.
+I’m Jay, currently working as a **Quality & Data Manager** with over 5 years of experience in operations, client handling, and quality assurance in the B2B service sector.
+After discovering my passion for data, I transitioned into **Data Analytics** through dedicated learning and real-world projects.
+I’ve completed a Data Analytics certification and a **7-month internship** as a Data Analyst at Grras IT Training & Solutions Pvt. Ltd.  
+Additionally, I’ve completed a **6-month internship** as a Data Analyst with Cognifyz Technologies, where I worked on practical tasks using SQL, Power BI, and Python.  I enjoy working with data to solve business problems, optimize processes, and support decision-making with clear insights and visualizations.  
+I’m actively building real-world projects and transitioning into a full-time **Data Analyst role**.
 
 ---
 
 ## 🧰 Skills
 
-- Tools & Languages: Python, SQL, Excel, Power BI, Tableau
-- Data Analysis: Data Cleaning, Exploratory Data Analysis (EDA), Reporting & Trend Analysis, Statistical Analysis 
-- Visualization Libraries: Matplotlib, Seaborn, Plotly
-- Domain Knowledge: B2B Operations, Quality Control, Reporting & Insights
+- **Tools & Languages:** Python, SQL, Excel, Power BI, Tableau
+- **Data Analysis:** Data Cleaning, Exploratory Data Analysis (EDA), Reporting & Trend Analysis, Statistical Analysis 
+- **Visualization Libraries:** Matplotlib, Seaborn, Plotly
+- **Domain Knowledge:** B2B Operations, Quality Control, Reporting & Insights
  
 ## 📫 How to Reach Me
 
