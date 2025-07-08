@@ -21,11 +21,8 @@ I’m actively building real-world projects and transitioning into a full-time D
  
 ## 📫 How to Reach Me
 
-- 📧 Email: [your.email@gmail.com]  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](#)  
-- 🧑‍💻 GitHub: [github.com/your-username](#)
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yourusername-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jaymalvi)  
+[![Email](https://img.shields.io/badge/Email-yourname@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:jaymalvi57@gmail.com)
 <!--
 **Jay-Malvi/Jay-Malvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
