@@ -21,8 +21,8 @@ I’m actively building real-world projects and transitioning into a full-time *
  
 ## 📫 How to Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yourusername-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jaymalvi)  
-[![Email](https://img.shields.io/badge/Email-yourname@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:jaymalvi57@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jay-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jaymalvi)  
+[![Email](https://img.shields.io/badge/Gmail-Jay-red?style=for-the-badge&logo=gmail)](mailto:jaymalvi57@gmail.com)
 <!--
 **Jay-Malvi/Jay-Malvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
