@@ -17,7 +17,7 @@ I’m actively building real-world projects and transitioning into a full-time *
 - **Tools & Languages:** Python, SQL, Excel, Power BI, Tableau
 - **Data Analysis:** Data Cleaning, Exploratory Data Analysis (EDA), Reporting & Trend Analysis, Statistical Analysis 
 - **Visualization Libraries:** Matplotlib, Seaborn, Plotly
-- **Domain Knowledge:** B2B Operations, Quality Control, Reporting & Insights
+- **Domain Knowledge:** B2B Operations, B2C Services, Quality Control, Reporting & Insights
  
 ## 📫 How to Reach Me
 
